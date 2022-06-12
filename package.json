@@ -1,0 +1,17 @@
+{
+  "name": "drgnparse",
+  "version": "1.0.0",
+  "description": "Drgn money parser",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ITIFSMTH",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
+  }
+}
